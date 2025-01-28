@@ -1,16 +1,26 @@
 body {
     background: url(img/bg.jpg) no-repeat center top;
-h1{
 
-   
-}   
+    
 
 h1 {
-    color: rgb(120, 184, 48);
+    color: rgb(121, 185, 47);
     text-align: center;
+
+
+
+
+
 
 }
 #highlight {
-    background-color: aqua;
+    background-color: rgb(139, 218, 185);
+    
+        display: flex;
+    
+        flex-direction: row;
+        gap: 20px;
+     
+        
 }
 }
